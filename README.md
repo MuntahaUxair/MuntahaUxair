@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @MuntahaUxair
-- 👀 I’m interested in coding,money,reading,violin,sketching and tennis
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on anything really.
-- 📫 How to reach me (just don't)
+- 👋 Hi, I’m @MuntahaUxair 
 
 <!---
 MuntahaUxair/MuntahaUxair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
